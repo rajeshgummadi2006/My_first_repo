@@ -1,0 +1,3 @@
+Name= Gummadi Rajesh 
+Course= BSc Datascience 
+About GitHub= GitHub is a platform for developers to store, share, and collaborate on code. It uses Git (a version control system created by Linus Torvalds) to track changes in projects, making it easier for teams to work together.
